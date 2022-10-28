@@ -1,6 +1,10 @@
 # text-effect-editor
 
-一个在线 web app 去编辑字体特效，目前支持
+一个在线 web app 去编辑字体特效，参考了 canva(可画) 的效果和实现。
+
+在线地址: https://ephemeral-druid-42201c.netlify.app/
+
+目前支持: 
 1. 空心文本
 2. 霓虹灯效果
 3. 出窍效果
@@ -16,3 +20,4 @@
 ## TODO
 1. 文本编辑(富文本)
 2. 预览css代码
+3. 字体变形
